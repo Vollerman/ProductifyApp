@@ -1,0 +1,15 @@
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\bin\Debug\net7.0\Productify.Persistence.deps.json
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\bin\Debug\net7.0\Productify.Persistence.dll
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\bin\Debug\net7.0\Productify.Persistence.pdb
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\bin\Debug\net7.0\Productify.Domain.dll
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\bin\Debug\net7.0\Productify.Domain.pdb
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.csproj.AssemblyReference.cache
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.AssemblyInfoInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.AssemblyInfo.cs
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.csproj.CopyComplete
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.dll
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\refint\Productify.Persistence.dll
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\Productify.Persistence.pdb
+C:\Users\xLmNt-Pc\source\repos\Product\Infrastructure\Persistence\obj\Debug\net7.0\ref\Productify.Persistence.dll

@@ -1,0 +1,12 @@
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\bin\Debug\net7.0\Productify.Domain.deps.json
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\bin\Debug\net7.0\Productify.Domain.dll
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\bin\Debug\net7.0\Productify.Domain.pdb
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.csproj.AssemblyReference.cache
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.AssemblyInfoInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.AssemblyInfo.cs
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.dll
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\refint\Productify.Domain.dll
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\Productify.Domain.pdb
+C:\Users\xLmNt-Pc\source\repos\Product\Core\Productify.Domain\obj\Debug\net7.0\ref\Productify.Domain.dll

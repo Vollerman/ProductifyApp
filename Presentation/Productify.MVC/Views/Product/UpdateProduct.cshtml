@@ -1,0 +1,12 @@
+﻿@model Productify.Domain.Entities.Product
+
+<form asp-action="UpdateProduct" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>
+
